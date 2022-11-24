@@ -1,0 +1,9 @@
+.menudemo {
+    box-sizing: border-box;
+    width: 100%;
+    background-color: white;
+  }
+  
+  .menudemo .arco-menu-inner {
+    overflow-y: auto;
+  }

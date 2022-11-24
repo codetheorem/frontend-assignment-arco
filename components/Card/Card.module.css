@@ -1,0 +1,13 @@
+.card .iconhover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    transition: all 0.1s;
+  }
+  
+  .card .iconhover:hover {
+    background-color: rgb(var(--gray-2));
+  }

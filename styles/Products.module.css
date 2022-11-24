@@ -1,0 +1,13 @@
+.container {
+    padding: 2rem 0 0 5rem;
+  }
+
+  .container2{
+    padding: 2rem 0 0 5rem;
+    display: flex;
+  }
+
+  .pagination {
+    margin-top: 5rem;
+    margin-left: 40%;
+  }
